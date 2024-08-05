@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">金贝贝🐱 祝妈妈生日快乐！喵🐱 ~</div>
+  <div class="more-content">金被被 🐱 祝妈妈生日快乐！喵🐱 ~</div>
 </template>
 
 <style lang="scss" scoped>
